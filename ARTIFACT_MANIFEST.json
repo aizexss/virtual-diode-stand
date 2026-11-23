@@ -1,0 +1,45 @@
+{
+  "version": "v1.0.0",
+  "release_url": "https://github.com/aizexss/virtual-diode-stand/releases/tag/v1.0.0",
+  "archives": [
+    {
+      "file": "DataDiode_Research_Testbed.zip",
+      "bytes": 15392145,
+      "sha256": "c16fb81615e67670a2b0f624140dd09ab00d902bd10261e69519eb0bebdea98b",
+      "members": 2331
+    },
+    {
+      "file": "Reproduction_Addendum.zip",
+      "bytes": 454632,
+      "sha256": "e8baadb214e17940c487e55402b1fd92e322a6dcf26099b66fa90623aead107a",
+      "members": 527
+    },
+    {
+      "file": "GoDiode_F04_Offline_Evidence.zip",
+      "bytes": 74790,
+      "sha256": "49c0f8b989c54987a1a1b113d8a8149aa3a9841ce69df11e46f46af06c21b208",
+      "members": 68
+    }
+  ],
+  "browsable_source": [
+    {
+      "file": "method/profile.py",
+      "bytes": 9161,
+      "sha256": "1f30a4a77a2883c8b99b351ccc8dbad3a6ca97911c2bf7465bb8c65e3d636aa0",
+      "archive_member": "Anonymous_Reproducibility/core/Article2_Evidence/profile.py"
+    },
+    {
+      "file": "method/explain.py",
+      "bytes": 4286,
+      "sha256": "416de284aa372a0797a6b337446dad0107d5532744c4f5761c57ed47a6d6cde9",
+      "archive_member": "Anonymous_Reproducibility/core/Article2_Evidence/explain.py"
+    },
+    {
+      "file": "method/verify.py",
+      "bytes": 17818,
+      "sha256": "72d0d74fc6785fc7bef221369f84aa795400907f208271039ff7ecd7341c3188",
+      "archive_member": "Anonymous_Reproducibility/core/Article2_Evidence/verify.py"
+    }
+  ],
+  "go_diode_scope": "Archived file-read evidence and profile/explanation verification only."
+}
